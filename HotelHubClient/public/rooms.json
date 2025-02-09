@@ -1,0 +1,320 @@
+[
+  {
+    "title": "Cozy Single Room",
+    "price": 80,
+    "size": "200 sq ft",
+    "room_description": "Our cozy single room is perfect for solo travelers. It features a comfortable bed and a small workspace for your convenience.",
+    "room_feature": [
+      "Free Wi-Fi",
+      "Air Conditioning",
+      "Mini Fridge",
+      "En-suite Bathroom"
+    ],
+    "type": "Single",
+    "capacity": 1,
+    "availability": true,
+    "image": "https://i.ibb.co/k8bCtRt/10.jpg",
+    "special_offer": "Get 10% off for bookings made 7 days in advance",
+    "reviews": [
+      {
+        "name": "John",
+        "photo": null,
+        "rating": 4,
+        "description": "Great room! Very comfortable and clean. I enjoyed my stay here."
+      },
+      {
+        "name": "Emily",
+        "photo": null,
+        "rating": 5,
+        "description": "Amazing value for money. The room was cozy and had all the amenities I needed."
+      }
+    ]
+  },
+  {
+    "title": "Deluxe Double Room",
+    "price": 150,
+    "size": "350 sq ft",
+    "room_description": "Our deluxe double room is a spacious and comfortable option for couples. It includes a large bed and a sitting area for relaxation.",
+    "room_feature": [
+      "Free Wi-Fi",
+      "Air Conditioning",
+      "Flat-screen TV",
+      "Balcony with City View"
+    ],
+    "type": "Double",
+    "capacity": 2,
+    "availability": true,
+    "image": "https://i.ibb.co/fnL1NRh/9.jpg",
+    "special_offer": "Free breakfast included for all bookings",
+    "reviews": [
+      {
+        "name": "Sarah",
+        "photo": null,
+        "rating": 5,
+        "description": "The room was fantastic, and the view from the balcony was breathtaking."
+      },
+      {
+        "name": "James",
+        "photo": null,
+        "rating": 4,
+        "description": "A great place for a romantic getaway. We enjoyed our stay."
+      }
+    ]
+  },
+  {
+    "title": "Luxury Suite",
+    "price": 250,
+    "size": "600 sq ft",
+    "room_description": "Indulge in luxury with our spacious suite. It features a separate living area, a king-sized bed, and a private whirlpool bath.",
+    "room_feature": [
+      "Free Wi-Fi",
+      "Air Conditioning",
+      "Kitchenette",
+      "Whirlpool Bath"
+    ],
+    "type": "Suite",
+    "capacity": 2,
+    "availability": false,
+    "image": "https://i.ibb.co/R4T7LLY/5.jpg",
+    "special_offer": "",
+    "reviews": [
+      {
+        "name": "Sophie",
+        "photo": null,
+        "rating": 4,
+        "description": "The suite was spacious and comfortable. The whirlpool bath was a nice touch."
+      },
+      {
+        "name": "Daniel",
+        "photo": null,
+        "rating": 3,
+        "description": "A bit disappointed that the suite wasn't available on our preferred dates."
+      },
+      {
+        "name": "Olivia",
+        "photo": null,
+        "rating": 5,
+        "description": "Excellent service and attention to detail. We had a memorable stay."
+      }
+    ]
+  },
+  {
+    "title": "Family Room",
+    "price": 200,
+    "size": "450 sq ft",
+    "room_description": "Our family room is perfect for a family of four. It includes two separate bedrooms, a common living area, and a kitchenette.",
+    "room_feature": [
+      "Free Wi-Fi",
+      "Air Conditioning",
+      "Kitchenette",
+      "Two Bedrooms"
+    ],
+    "type": "Family",
+    "capacity": 4,
+    "availability": true,
+    "image": "https://i.ibb.co/mT0ZwyY/8.jpg",
+    "special_offer": "Stay 3 nights or more and get a 15% discount",
+    "reviews": []
+  },
+  {
+    "title": "Standard Twin Room",
+    "price": 120,
+    "size": "250 sq ft",
+    "room_description": "Our standard twin room is perfect for friends or colleagues traveling together. It includes two single beds and a workspace.",
+    "room_feature": [
+      "Free Wi-Fi",
+      "Air Conditioning",
+      "Workspace",
+      "En-suite Bathroom"
+    ],
+    "type": "Twin",
+    "capacity": 2,
+    "availability": true,
+    "image": "https://i.ibb.co/56Z0Sz1/12.jpg",
+    "special_offer": "",
+    "reviews": [
+      {
+        "name": "Jessica",
+        "photo": null,
+        "rating": 4,
+        "description": "The twin room was comfortable and had a nice workspace."
+      },
+      {
+        "name": "Andrew",
+        "photo": null,
+        "rating": 5,
+        "description": "Ideal for business travelers. The free Wi-Fi was a big plus."
+      }
+    ]
+  },
+  {
+    "title": "Executive Suite",
+    "price": 300,
+    "size": "700 sq ft",
+    "room_description": "Experience luxury and comfort in our executive suite. It features a private balcony, a king-sized bed, and a spacious living area.",
+    "room_feature": [
+      "Free Wi-Fi",
+      "Air Conditioning",
+      "Balcony",
+      "King-sized Bed"
+    ],
+    "type": "Suite",
+    "capacity": 2,
+    "availability": true,
+    "image": "https://i.ibb.co/KsN50fD/6.jpg",
+    "special_offer": "Complimentary bottle of champagne upon arrival",
+    "reviews": [
+      {
+        "name": "William",
+        "photo": null,
+        "rating": 5,
+        "description": "Absolutely amazing. The suite was luxurious, and the balcony had a great view."
+      }
+    ]
+  },
+  {
+    "title": "Economy Single Room",
+    "price": 60,
+    "size": "180 sq ft",
+    "room_description": "Our economy single room is a budget-friendly option for solo travelers. It features a comfortable bed and basic amenities.",
+    "room_feature": [
+      "Free Wi-Fi",
+      "Air Conditioning",
+      "En-suite Bathroom",
+      "TV"
+    ],
+    "type": "Single",
+    "capacity": 1,
+    "availability": true,
+    "image": "https://i.ibb.co/nCWFpN6/13.jpg",
+    "special_offer": "10% off for stays longer than 5 nights",
+    "reviews": [
+      {
+        "name": "Liam",
+        "photo": null,
+        "rating": 4,
+        "description": "A great budget option. The room had all the essentials I needed."
+      }
+    ]
+  },
+  {
+    "title": "Ocean View Double Room",
+    "price": 180,
+    "size": "400 sq ft",
+    "room_description": "Enjoy stunning ocean views in our double room. It features a balcony, a large bed, and modern amenities.",
+    "room_feature": ["Free Wi-Fi", "Air Conditioning", "Balcony", "Ocean View"],
+    "type": "Double",
+    "capacity": 2,
+    "availability": true,
+    "image": "https://i.ibb.co/0nRBBFD/11.jpg",
+    "special_offer": "",
+    "reviews": [
+      {
+        "name": "Oliver",
+        "photo": null,
+        "rating": 5,
+        "description": "The ocean view room was incredible. We had a fantastic experience."
+      }
+    ]
+  },
+  {
+    "title": "Premium Suite",
+    "price": 350,
+    "size": "800 sq ft",
+    "room_description": "Indulge in luxury with our premium suite. It features a private terrace, a king-sized bed, and a spacious living area.",
+    "room_feature": [
+      "Free Wi-Fi",
+      "Air Conditioning",
+      "Private Terrace",
+      "King-sized Bed"
+    ],
+    "type": "Suite",
+    "capacity": 2,
+    "availability": true,
+    "image": "https://i.ibb.co/WKQFhBN/1.jpg",
+    "special_offer": "10% off for repeat guests",
+    "reviews": [
+      {
+        "name": "Mia",
+        "photo": null,
+        "rating": 5,
+        "description": "An unforgettable experience. The private terrace was a highlight."
+      }
+    ]
+  },
+  {
+    "title": "Standard Double Room",
+    "price": 140,
+    "size": "300 sq ft",
+    "room_description": "Our standard double room is a comfortable choice for couples. It includes a double bed and a sitting area for relaxation.",
+    "room_feature": [
+      "Free Wi-Fi",
+      "Air Conditioning",
+      "Sitting Area",
+      "En-suite Bathroom"
+    ],
+    "type": "Double",
+    "capacity": 2,
+    "availability": true,
+    "image": "https://i.ibb.co/bJDmwSv/34-6.jpg",
+    "special_offer": "",
+    "reviews": [
+      {
+        "name": "Alexander",
+        "photo": null,
+        "rating": 4,
+        "description": "The double room was comfortable, and the sitting area was a nice touch."
+      }
+    ]
+  },
+  {
+    "title": "City View Suite",
+    "price": 270,
+    "size": "700 sq ft",
+    "room_description": "Enjoy breathtaking city views from our city view suite. It features a private balcony, a king-sized bed, and a spacious living area.",
+    "room_feature": [
+      "Free Wi-Fi",
+      "Air Conditioning",
+      "Private Balcony",
+      "King-sized Bed"
+    ],
+    "type": "Suite",
+    "capacity": 2,
+    "availability": true,
+    "image": "https://i.ibb.co/S0wxMM3/04-4.jpg",
+    "special_offer": "Book a 5-night stay and receive a complimentary city tour",
+    "reviews": [
+      {
+        "name": "Emma",
+        "photo": null,
+        "rating": 5,
+        "description": "The city view from the balcony was spectacular. The suite was luxurious."
+      }
+    ]
+  },
+  {
+    "title": "Economy Twin Room",
+    "price": 100,
+    "size": "220 sq ft",
+    "room_description": "Our economy twin room is an affordable choice for friends or colleagues traveling together. It includes two single beds and basic amenities.",
+    "room_feature": [
+      "Free Wi-Fi",
+      "Air Conditioning",
+      "En-suite Bathroom",
+      "TV"
+    ],
+    "type": "Twin",
+    "capacity": 2,
+    "availability": true,
+    "image": "https://i.ibb.co/vhT7BNT/37-6.jpg",
+    "special_offer": "10% off for students with valid ID",
+    "reviews": [
+      {
+        "name": "Evelyn",
+        "photo": null,
+        "rating": 4,
+        "description": "Affordable and comfortable for two people. Good value for the price."
+      }
+    ]
+  }
+]
